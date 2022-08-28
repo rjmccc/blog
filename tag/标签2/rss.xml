@@ -5,10 +5,20 @@
         <link>https://leicc.top</link>
         <description>Lei</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 28 Aug 2022 09:28:01 +0800</pubDate>
-        <lastBuildDate>Sun, 28 Aug 2022 09:28:01 +0800</lastBuildDate>
+        <pubDate>Sun, 28 Aug 2022 11:15:07 +0800</pubDate>
+        <lastBuildDate>Sun, 28 Aug 2022 11:15:07 +0800</lastBuildDate>
         <category>标签1</category>
         <category>标签2</category>
+        <item>
+            <guid isPermalink="true">https://leicc.top/posts/46897/</guid>
+            <title>文章名</title>
+            <link>https://leicc.top/posts/46897/</link>
+            <category>标签1</category>
+            <category>标签2</category>
+            <pubDate>Sun, 28 Aug 2022 11:15:07 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;正文&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正文&#34;&gt;#&lt;/a&gt; 正文&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://leicc.top/posts/63534/</guid>
             <title>test</title>
