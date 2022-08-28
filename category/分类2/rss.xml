@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Lei&#39;s Blog • Posts by &#34;分类2&#34; category</title>
+        <link>https://leicc.top</link>
+        <description>Lei</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 28 Aug 2022 09:28:01 +0800</pubDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:28:01 +0800</lastBuildDate>
+        <category>标签1</category>
+        <category>标签2</category>
+        <item>
+            <guid isPermalink="true">https://leicc.top/posts/63534/</guid>
+            <title>test</title>
+            <link>https://leicc.top/posts/63534/</link>
+            <category>标签1</category>
+            <category>标签2</category>
+            <pubDate>Sun, 28 Aug 2022 09:28:01 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+    </channel>
+</rss>

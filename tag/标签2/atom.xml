@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://leicc.top</id>
+    <title>Lei&#39;s Blog • Posts by &#34;标签2&#34; tag</title>
+    <link href="https://leicc.top" />
+    <updated>2022-08-28T01:28:01.000Z</updated>
+    <category term="标签1" />
+    <category term="标签2" />
+    <entry>
+        <id>https://leicc.top/posts/63534/</id>
+        <title>test</title>
+        <link rel="alternate" href="https://leicc.top/posts/63534/"/>
+        <content type="html"></content>
+        <category term="标签1" />
+        <category term="标签2" />
+        <updated>2022-08-28T01:28:01.000Z</updated>
+    </entry>
+</feed>
